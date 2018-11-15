@@ -1,0 +1,5 @@
+rna-transcription.spec.js
+package.json
+package-lock.json
+node_modules
+.exercism
